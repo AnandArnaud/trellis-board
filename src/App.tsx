@@ -33,7 +33,7 @@ export default function App() {
     const card: Card = { id: nextId++, title, column: "todo" };
     setCards((c) => [...c, card]);
     setDraft("");
-    // No product analytics wired in yet — the handler just logs the action.
+    // The handler logs the action.
     console.log("card_added", { id: card.id });
   }
 

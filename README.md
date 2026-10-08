@@ -4,7 +4,7 @@ Trellis is a minimal single-page kanban board — add cards, move them across co
 
 **Stack:** Vite + React (TypeScript, SPA)
 
-It is realistic but intentionally small, and ships with **no product analytics, experimentation, or session-replay wired in** — the user-action handlers just log to the console today.
+It is intentionally small. The user-action handlers log to the console.
 
 ## Key user actions
 
