@@ -6,7 +6,7 @@ Trellis is a minimal single-page kanban board — add cards, move them across co
 
 It is realistic but intentionally small, and ships with **no product analytics, experimentation, or session-replay wired in** — the user-action handlers just log to the console today.
 
-## User actions worth tracking
+## Key user actions
 
 add card · move card · complete card
 
